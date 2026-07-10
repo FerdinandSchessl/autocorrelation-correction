@@ -18,7 +18,7 @@ distribution yields a global p-value.
 Example:
     >>> results = compare_naive_vs_robust(test_results)
     >>> print(f"IR = {results['inflation_rate']:.0%}")
-    IR = 43%
+    IR = 42%
 """
 
 import numpy as np

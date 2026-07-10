@@ -14,7 +14,7 @@ Methods implemented:
     4. Permutation testing for global significance
 
 Reference:
-    Schessl, F. (2026). The Autocorrelation Blind Spot: Why 43% of Turn-Level
+    Schessl, F. (2026). The Autocorrelation Blind Spot: Why 42% of Turn-Level
     Findings in LLM Conversation Analysis May Be Spurious. [arXiv:XXXX.XXXXX]
 """
 
