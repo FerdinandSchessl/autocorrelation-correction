@@ -13,3 +13,10 @@ venv/
 env/
 *.so
 .DS_Store
+
+# Secrets
+.env
+.env.*
+*.key
+credentials/
+secrets/
